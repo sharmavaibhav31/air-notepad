@@ -37,7 +37,6 @@ This project is less about app development and more about exploring **gesture re
 
 ---
 
-## 🎥 Demo  
 
 ## 🎥 Demo
 
