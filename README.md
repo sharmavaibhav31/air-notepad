@@ -40,7 +40,7 @@ This project is less about app development and more about exploring **gesture re
 
 ## 🎥 Demo
 
-[![Air Notepad Demo](https://img.youtube.com/vi/gqodEz9KfkU/0.jpg)](https://youtu.be/gqodEz9KfkU)
+[![Air Notepad Demo]([https://youtu.be/gqodEz9KfkU](https://youtu.be/t9qGOTsM9mY))
 
 ---
 
